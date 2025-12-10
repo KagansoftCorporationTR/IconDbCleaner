@@ -1,5 +1,7 @@
 # IconDbCleaner
 
+Has your PC ever screamed like: "I'm running so slow, I feel like I have spiderwebs inside!"
+
 IconDbCleaner is a compact and robust utility designed to permanently resolve common corrupted, broken, or outdated icon cache issues encountered in Microsoft Windows operating systems. 
 When the system's speed-optimizing IconCache.db file becomes corrupted, icons may appear incorrectly, load slowly, or vanish completely. IconDbCleaner safely forces the operating system to rebuild this critical database from scratch.
 
